@@ -1,0 +1,22 @@
+D:\Education\University\Projects\Pay Calculator\bin\Debug\Pay Calculator.exe.config
+D:\Education\University\Projects\Pay Calculator\bin\Debug\Pay Calculator.exe
+D:\Education\University\Projects\Pay Calculator\bin\Debug\Pay Calculator.pdb
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.csproj.AssemblyReference.cache
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay_Calculator.Form1.resources
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay_Calculator.Properties.Resources.resources
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.csproj.GenerateResource.cache
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.csproj.CoreCompileInputs.cache
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.exe
+D:\Education\University\Projects\Pay Calculator\obj\Debug\Pay Calculator.pdb
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\bin\Debug\Pay Calculator.exe.config
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\bin\Debug\Pay Calculator.exe
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\bin\Debug\Pay Calculator.pdb
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.csproj.AssemblyReference.cache
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay_Calculator.Form1.resources
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay_Calculator.Properties.Resources.resources
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.csproj.GenerateResource.cache
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.csproj.CoreCompileInputs.cache
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.exe
+D:\Education\University\Distributed Computing\Assignment 1\Pay Calculator\obj\Debug\Pay Calculator.pdb
